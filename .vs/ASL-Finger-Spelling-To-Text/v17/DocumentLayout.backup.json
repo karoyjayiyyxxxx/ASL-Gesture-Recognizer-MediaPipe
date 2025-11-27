@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27750B4A-8E26-49C0-8AF1-2F27C4A7C473}|ASL-Finger-Spelling-To-Text.pyproj|Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\collect_images.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27750B4A-8E26-49C0-8AF1-2F27C4A7C473}|ASL-Finger-Spelling-To-Text.pyproj|solutionrelative:collect_images.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27750B4A-8E26-49C0-8AF1-2F27C4A7C473}|ASL-Finger-Spelling-To-Text.pyproj|Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27750B4A-8E26-49C0-8AF1-2F27C4A7C473}|ASL-Finger-Spelling-To-Text.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-02T07:40:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "collect_images.py",
+              "DocumentMoniker": "Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\collect_images.py",
+              "RelativeDocumentMoniker": "collect_images.py",
+              "ToolTip": "Z:\\\u5176\u4ED6\u96FB\u8166\\\u6211\u7684 \u7B46\u8A18\u578B\u96FB\u8166 (1)\\GoogleDrive\\ASL-Finger-Spelling-To-Text\\collect_images.py",
+              "RelativeToolTip": "collect_images.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-03T09:53:29.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
