@@ -150,7 +150,7 @@ class GestureRecognizer:
             self.font = ImageFont.load_default()
         
         # API key (from environment variable for security)
-        self.google_api_key = os.environ.get("GOOGLE_API_KEY", "AIzaSyCrkfSGq5ZlwBF-20WcC3lJ7bKsJqMLm-Q")
+        self.google_api_key = os.environ.get("GOOGLE_API_KEY", "")
         if not self.google_api_key:
             print("Warning: GOOGLE_API_KEY environment variable not set.")
         
